@@ -10,7 +10,3 @@
 <a href="https://linkedin.com/in/hoangtrung1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoangtrung1801" height="30" width="40" />Linkedin</a> | 
 <a href="https://fb.com/trung181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trung181" height="30" width="40" />Facebook</a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangtrung1801&show_icons=true&locale=en&layout=compact" alt="hoangtrung1801" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangtrung1801&show_icons=true&locale=en" alt="hoangtrung1801" /></p>
