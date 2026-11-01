@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Hoang Trung,</h1>
-<h3 align="center">a software engineer student</h3>
+<h3 align="center">a software engineer, indie dev</h3>
 
 - 👨‍💻 All of my projects are available at [https://hoangtrung1801.vercel.app](https://hoangtrung1801.vercel.app)
 
